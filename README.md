@@ -10,8 +10,11 @@ Flutter BLoC (Business Logic Component) is a design pattern that is built to man
 
 Here are some of the projects that I've worked on:
 
-1. **Flutter Counter**: A quick introduction to BLoC concepts.<br/>
+1. **Flutter Counter**: A quick introduction to Cubit concepts.<br/>
    ![image](./flutter_counter/Screenshot_1715751051.png)
+
+2. **Flutter Timer**: A quick introduction to BLoC concepts.<br/>
+   ![image](./flutter_timer/Screenshot_1715758421.png)
 
 ## Learning Resources
 
